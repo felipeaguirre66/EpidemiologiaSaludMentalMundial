@@ -1,4 +1,4 @@
 # Epidemiologia de la Salud Mental Mundial
 
-Este trabajo tuvo por objetivo realizar un analisis epidemiologico de las principales
-enfermedades mentales a nivel global. Mas detalles en el informe.
+The objective of this work was to carry out an epidemiological analysis of the main
+mental illness globally. More details in the report.
